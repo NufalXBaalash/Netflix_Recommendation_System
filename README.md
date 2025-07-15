@@ -1,7 +1,7 @@
 
 # 🎬 Netflix Recommendation System
 
-![Netflix Recommendation Banner](https://via.placeholder.com/800x300/0d1117/ffffff?text=Netflix+Recommendation+System+with+Gemini+%26+FAISS)
+![Netflix Recommendation Banner](https://i.pcmag.com/imagery/reviews/05cItXL96l4LE9n02WfDR0h-5.fit_lim.size_1050x591.v1582751026.png)
 
 ## 📌 Project Overview
 This project implements a content-based recommendation system for Netflix titles using:
@@ -162,4 +162,3 @@ for rank, (title, score) in enumerate(results, 1):
 | google-generativeai | ≥0.4 | Gemini embeddings |
 | faiss-cpu | ≥1.7 | Similarity search |
 | python-dotenv | ≥1.0 | Environment management |
-```
