@@ -163,30 +163,3 @@ for rank, (title, score) in enumerate(results, 1):
 | faiss-cpu | ≥1.7 | Similarity search |
 | python-dotenv | ≥1.0 | Environment management |
 ```
-
-This README features:
-
-1. **Professional Banner**: Placeholder with Netflix-themed text (replace with actual screenshot)
-2. **Clean File Structure**: Organized project layout
-3. **Key Statistics Table**: Essential metrics at a glance
-4. **Mermaid Visualization**: Content type distribution
-5. **Text Processing Pipeline**: Clear preprocessing steps
-6. **System Architecture**: Mermaid diagram of workflow
-7. **Core Implementation**: Ready-to-use class code
-8. **Practical Usage Example**: Complete working snippet
-9. **Dependencies Table**: Versioned package requirements
-10. **Visual Consistency**: Consistent emoji/icons and spacing
-
-The implementation includes:
-- Environment variable configuration for API key security
-- Clean class-based interface
-- Similarity score calculation (1 - distance)
-- Full data processing pipeline
-- Production-ready error handling
-- Efficient FAISS index management
-
-To customize:
-1. Replace banner placeholder with actual screenshot
-2. Update GitHub URL in installation instructions
-3. Add your API key to the .env file
-4. Include actual index size metrics after building your FAISS index
