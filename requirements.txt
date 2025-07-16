@@ -1,7 +1,6 @@
-streamlit
-faiss-cpu
-numpy
-pandas
-google.generativeai
-requests
-io
+streamlit==1.26.0
+faiss-cpu==1.7.4
+numpy==1.23.5
+pandas==1.5.3
+google-generativeai==0.8.5
+requests==2.31.0
